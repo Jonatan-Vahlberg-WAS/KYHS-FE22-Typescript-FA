@@ -1,0 +1,162 @@
+[
+  {
+    
+    "name": "Paracetamol",
+    "description": "Pain reliever and fever reducer",
+    "manufacturer": "ABC Pharmaceuticals",
+    "price": 5.99,
+    "stock": 100
+  },
+  {
+    
+    "name": "Amoxicillin",
+    "description": "Antibiotic for bacterial infections",
+    "manufacturer": "XYZ Pharmaceuticals",
+    "price": 12.5,
+    "stock": 50
+  },
+  {
+    
+    "name": "Lisinopril",
+    "description": "Blood pressure medication",
+    "manufacturer": "DEF Pharmaceuticals",
+    "price": 8.75,
+    "stock": 75
+  },
+  {
+    
+    "name": "Atorvastatin",
+    "description": "Cholesterol-lowering medication",
+    "manufacturer": "GHI Pharmaceuticals",
+    "price": 9.99,
+    "stock": 60
+  },
+  {
+    
+    "name": "Metformin",
+    "description": "Antidiabetic medication",
+    "manufacturer": "JKL Pharmaceuticals",
+    "price": 7.25,
+    "stock": 80
+  },
+  {
+    
+    "name": "Omeprazole",
+    "description": "Heartburn and stomach ulcer medication",
+    "manufacturer": "MNO Pharmaceuticals",
+    "price": 6.5,
+    "stock": 90
+  },
+  {
+    
+    "name": "Ibuprofen",
+    "description": "Nonsteroidal anti-inflammatory drug (NSAID)",
+    "manufacturer": "ABC Pharmaceuticals",
+    "price": 4.99,
+    "stock": 120
+  },
+  {
+    
+    "name": "Simvastatin",
+    "description": "Cholesterol-lowering medication",
+    "manufacturer": "GHI Pharmaceuticals",
+    "price": 10.99,
+    "stock": 55
+  },
+  {
+    
+    "name": "Citalopram",
+    "description": "Antidepressant",
+    "manufacturer": "DEF Pharmaceuticals",
+    "price": 11.25,
+    "stock": 70
+  },
+  {
+    
+    "name": "Metoprolol",
+    "description": "Beta-blocker for high blood pressure",
+    "manufacturer": "JKL Pharmaceuticals",
+    "price": 7.99,
+    "stock": 85
+  },
+  {
+    
+    "name": "Aspirin",
+    "description": "Pain reliever and blood thinner",
+    "manufacturer": "MNO Pharmaceuticals",
+    "price": 3.99,
+    "stock": 150
+  },
+  {
+    
+    "name": "Levothyroxine",
+    "description": "Thyroid hormone replacement",
+    "manufacturer": "XYZ Pharmaceuticals",
+    "price": 9.5,
+    "stock": 40
+  },
+  {
+    
+    "name": "Albuterol",
+    "description": "Bronchodilator for asthma",
+    "manufacturer": "DEF Pharmaceuticals",
+    "price": 8.25,
+    "stock": 65
+  },
+  {
+    
+    "name": "Metronidazole",
+    "description": "Antibiotic for bacterial and parasitic infections",
+    "manufacturer": "JKL Pharmaceuticals",
+    "price": 6.99,
+    "stock": 55
+  },
+  {
+    
+    "name": "Prednisone",
+    "description": "Corticosteroid for inflammation and immune disorders",
+    "manufacturer": "GHI Pharmaceuticals",
+    "price": 7.75,
+    "stock": 75
+  },
+  {
+    
+    "name": "Fluoxetine",
+    "description": "Antidepressant",
+    "manufacturer": "DEF Pharmaceuticals",
+    "price": 10.5,
+    "stock": 60
+  },
+  {
+    
+    "name": "Losartan",
+    "description": "Blood pressure medication",
+    "manufacturer": "MNO Pharmaceuticals",
+    "price": 8.99,
+    "stock": 80
+  },
+  {
+    
+    "name": "Warfarin",
+    "description": "Anticoagulant (blood thinner)",
+    "manufacturer": "XYZ Pharmaceuticals",
+    "price": 5.5,
+    "stock": 45
+  },
+  {
+    
+    "name": "Diazepam",
+    "description": "Sedative and anti-anxiety medication",
+    "manufacturer": "ABC Pharmaceuticals",
+    "price": 6.75,
+    "stock": 70
+  },
+  {
+    
+    "name": "Hydrochlorothiazide",
+    "description": "Diuretic for high blood pressure",
+    "manufacturer": "GHI Pharmaceuticals",
+    "price": 8.25,
+    "stock": 90
+  }
+]
